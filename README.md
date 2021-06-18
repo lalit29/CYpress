@@ -77,4 +77,4 @@ Check out the [Contributing Guideline](/CONTRIBUTING.md).
 ## Changelog
 
 - after v1.0.4 at [cypress-example-kitchensink/releases](https://github.com/cypress-io/cypress-example-kitchensink/releases)
-- before at [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
+- before at [CHANGELOG_OLD.md](CHANGELOG_OLD.md) 
